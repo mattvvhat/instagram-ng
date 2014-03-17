@@ -1,0 +1,10 @@
+{
+  "name": "united",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.14",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {}
+}
